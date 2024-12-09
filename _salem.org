@@ -1,1 +1,2 @@
-
+title: salem nwaozuzuz
+theme: jekyll-theme-minimal
